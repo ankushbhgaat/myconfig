@@ -1,5 +1,5 @@
 <h1 align="center">
-My Personal Config
+My Config
 </h1>
 
 <div align="center">
